@@ -89,7 +89,7 @@ public:
 #define WEAPON_SPORELAUNCHER		23// 22 // shock
 #define WEAPON_SNIPERRIFLE		24// 23 // spore
 #define WEAPON_KNIFE			25// 24 // sniper
-#define	WEAPON_PENGUIN			21// 25 // knife
+#define	WEAPON_PENGUIN			26// 25 // knife
 
 #define WEAPON_ALLWEAPONS		(~(1<<WEAPON_SUIT))
 
