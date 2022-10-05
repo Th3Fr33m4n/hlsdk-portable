@@ -84,11 +84,12 @@ public:
 #define WEAPON_PIPEWRENCH		18
 #define	WEAPON_M249			19
 #define WEAPON_DISPLACER		20
-#define WEAPON_SHOCKRIFLE		21
-#define WEAPON_SPORELAUNCHER		22
-#define WEAPON_SNIPERRIFLE		23
-#define WEAPON_KNIFE			24
-#define	WEAPON_PENGUIN			25
+
+#define WEAPON_SHOCKRIFLE		22// 21 // penguin
+#define WEAPON_SPORELAUNCHER		23// 22 // shock
+#define WEAPON_SNIPERRIFLE		24// 23 // spore
+#define WEAPON_KNIFE			25// 24 // sniper
+#define	WEAPON_PENGUIN			21// 25 // knife
 
 #define WEAPON_ALLWEAPONS		(~(1<<WEAPON_SUIT))
 
